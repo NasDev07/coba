@@ -27,7 +27,7 @@
 
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/nasdev07"><img src="https://skillicons.dev/icons?i=vscode,css,html,js,bots,github,nodejs,laravel,mysql"> </a> </p>
+<p align="left"> <a href="https://github.com/nasdev07"><img src="https://skillicons.dev/icons?i=vscode,css,html,js,bootstrap,github,nodejs,react,laravel,mysql"> </a> </p>
 
 ## My Stats:
 <p align="center">
