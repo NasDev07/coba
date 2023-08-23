@@ -7,7 +7,8 @@
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nas-ruddin/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nas-ruddin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nas-ruddin/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg?" alt="nas-ruddin" height="30" width="40" /></a>
+
   <a href="https://www.youtube.com/channel/UC2f0vQuv6j7FHySx-XCktdw"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://ko-fi.com/chatcool"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/-Kofi-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>
 <a href="https://github.com/nasdev07?tab=repositories&sort=stargazers">
